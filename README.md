@@ -8,10 +8,25 @@ I had discovered CSS grid and wanted to work on a bigger project based on it. So
 ![alt text](https://github.com/Jscorz/MethodOfLociSim/blob/MOL-screenshot.png?raw=true) -->
 
 ![luxur](luxur1.png)
+
+---
+
 ![luxur2](luxur2.png)
+
+---
+
 ![luxur3](luxur3.png)
+
+---
+
 ![luxur4](luxur4.png)
+
+---
+
 ![luxur5](luxur5.png)
+
+---
+
 ![luxur6](luxur7.png)
 
 ---
