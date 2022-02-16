@@ -1,0 +1,104 @@
+.header {
+  background-color: $color-grey-dark-1;
+  grid-column: full-start / -1;
+  background-image: linear-gradient(
+      rgba($color-secondary, 0.83),
+      rgba($color-secondary, 0.83)
+    ),
+    url(../img/man-with-bike.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 8rem;
+  padding-top: 4rem;
+
+  display: grid;
+  grid-template-rows: 1fr min-content minmax(6rem, min-content) 1fr;
+  // grid-template-columns: minmax(min-content, max-content);
+  grid-template-columns: minmax(min-content, max-content);
+  grid-row-gap: 2.5rem;
+  justify-items: center;
+  justify-content: center;
+  align-items: end;
+  align-content: end;
+
+  @media only screen and (max-width: $bp-medium) {
+    grid-column: 1 / -1;
+  }
+
+  @media only screen and (max-width: $bp-small) {
+    padding: 5rem;
+  }
+
+  &__container-luxur {
+    display: flex;
+    align-items: center;
+    font-family: $font-display;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 4rem;
+    color: $color-blue-dark-1;
+  }
+
+  &__company {
+    padding-right: 2rem;
+  }
+  &__logo {
+    height: 6rem;
+    justify-self: center;
+    fill: $color-blue-dark-1;
+  }
+
+  &__btn {
+    justify-self: center;
+    align-self: start;
+    background-color: $color-blue-light-1;
+
+    &:hover,
+    &:active {
+      background-color: $color-blue-dark-1;
+    }
+  }
+
+  &__seenon-text {
+    display: grid;
+    grid-template-columns: 1fr max-content 1fr;
+    grid-column-gap: 1.5rem;
+    align-items: center;
+
+    font-size: 1.6rem;
+    color: $color-blue-dark-1;
+
+    &::before,
+    &::after {
+      content: "";
+      height: 1px;
+      display: block;
+      background-color: currentColor;
+    }
+  }
+
+  &__seenon-logos {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 3rem;
+    justify-items: center;
+    align-items: center;
+
+    &-blur {
+      max-height: 2.5rem;
+      max-width: 100%;
+
+      &-amazon {
+        max-height: 4rem;
+      }
+
+      &-facebook {
+        max-height: 4rem;
+      }
+
+      &-bikeshop {
+        max-height: 7rem;
+      }
+    }
+  }
+}
