@@ -2,7 +2,7 @@
 
 I had discovered CSS grid and wanted to work on a bigger project based on it. So now we have Luxur, a website for those who those who prefer a premium ride
 
-**Link to project: [Github]https://jscorz-luxur.netlify.app**
+**Link to project: [Live-demo]https://jscorz-luxur.netlify.app**
 
 <!-- <img src="/images/MOL-screenshot.png">
 ![alt text](https://github.com/Jscorz/MethodOfLociSim/blob/MOL-screenshot.png?raw=true) -->
