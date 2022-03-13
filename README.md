@@ -25,7 +25,7 @@ I had discovered CSS grid and wanted to work on a bigger project based on it. So
 
 ---
 
-**Tech used:** HTML, CSS, SASS
+**Tech used:** HTML, CSS, Sass
 
 I began building out the markup of the page making the design elements similar to other websites I enjoyed the design of. I decided how many sections of the site I would need and laid out a starter template for the grid container and applied it so. Then i started building out more grid layouts within each section starting with the header. I used various svg's for the icons and images from free-hosting sites. I used grid to rest another image across an already-existing image as it's made easier with CSS grid. I will add some Javascript functionality to the website at a later date.
 
