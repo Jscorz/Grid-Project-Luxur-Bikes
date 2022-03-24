@@ -4,20 +4,13 @@ I had discovered CSS grid and wanted to work on a bigger project based on it. So
 
 **Link to project: [Live-demo]https://jscorz-luxur.netlify.app**
 
-<!-- <img src="/images/MOL-screenshot.png">
-![alt text](https://github.com/Jscorz/MethodOfLociSim/blob/MOL-screenshot.png?raw=true) -->
+|          Desktop          |             Mobile              |
+| :-----------------------: | :-----------------------------: |
+| ![luxur](/img/luxur1.png) | ![luxur](/img/luxurmobile1.png) |
 
-![luxur](/img/luxur1.png)
-
-![luxur2](/img/luxur2.png)
-
-![luxur3](/img/luxur3.png)
-
-![luxur4](/img/luxur4.png)
-
-![luxur5](/img/luxur5.png)
-
-![luxur6](/img/luxur7.png)
+|          Desktop           |             Mobile              |
+| :------------------------: | :-----------------------------: |
+| ![luxur3](/img/luxur3.png) | ![luxur](/img/luxurmobile3.png) |
 
 ---
 
