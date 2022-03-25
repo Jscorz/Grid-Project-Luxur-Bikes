@@ -1,4 +1,4 @@
-# Luxur - A Website for Luxury Bicycles
+# Luxur | A Website for Luxury Bicycles
 
 I had discovered CSS grid and wanted to work on a bigger project based on it. So now we have Luxur, a website for those who those who prefer a premium ride
 
